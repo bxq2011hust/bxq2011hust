@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bxq2011hust&show_icons=true&theme=vue" alt="bxq2011hust's github stats" />
+
+- 🇨🇳 Chinese
+- 🔭 I’m currently working on FISCO BCOS
+- 🌏 Open-source software developer
+- ⚡ C/C++, Go, Java, Rust, ...
